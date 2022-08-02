@@ -1,0 +1,129 @@
+   
+.section1 {
+    background-color: #1F2937;
+    color:white;
+
+}
+
+.header {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    padding:20px;
+    height: 50px;
+    padding-right: 100px ;
+}
+
+
+.links {
+    display: flex
+}
+
+.sec1content {
+    display: flex;
+    padding:100px;
+    height: 200px;
+}
+
+.button1 {
+
+    background-color: blue;
+    border: 0px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    color: white;
+    font-size: 18px;
+
+}
+
+
+
+.container {
+    display: flex;
+    border-width: 10px;
+    justify-content: space-around;
+
+}
+
+.section2 h1 {
+
+    text-align:center;
+    padding-bottom: 30px;
+}
+
+.section2 p{
+
+    width:160px;
+    text-align: justify;
+}
+
+.placeholder {
+    border-style: solid;
+    border-width: 2px;
+    width: 160px;
+    height: 160px;
+    border-radius: 20px;
+    text-align: center;
+
+    
+}
+
+   
+.section3 {
+    background-color: #E5E7EB;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 80px 0px 80px ;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: justify;
+vertical-align: top;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.author {
+    margin-left: auto;
+   margin-top: 0px
+
+}
+
+.section4 {
+margin-top: 100px:
+height: 200px;
+display: flex;   
+}
+
+.insert {
+    padding: ;
+    display: flex;
+    background-color: #3882F6;
+    width: 700px;
+    height: 100px;
+    align-items: center;
+        border-radius: 20px;
+    color: white;
+    justify-content: space-around;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        font-style: italic;
+    
+}
+
+.section4 button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 2px;
+    font-size: 25px;
+    width: 150px;
+    font: 36px
+
+
+}
